@@ -14,7 +14,7 @@ namespace SPA.Client
             services.AddControllers();
             services.AddSpaStaticFiles(configuration =>
             {
-                configuration.RootPath = "app/dist";
+                configuration.RootPath = "app-spa/dist";
             });
         }
 
