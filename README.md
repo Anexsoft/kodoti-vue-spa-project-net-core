@@ -19,4 +19,4 @@ El siguiente repositorio es un proyecto que permite gestionar las órdenes de co
 * Levantar el proyecto de visual studio.
 
 ## ¿Dónde puedo aprender sobre este curso?
-https://kodoti.com/cursos/aspnet-core-3-vuejs-spa
+https://www.udemy.com/course/aspnet-core-3-enfoque-spa-con-vuejs/?referralCode=C3D0571DA544849B183B
